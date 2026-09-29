@@ -1,0 +1,11 @@
+Threat,Likelihood_1_5,Impact_1_5,Initial_Rating,Recommended_Control,Risk_Score,risk_score,calculated_band
+Unauthorized access to production/quality records,4,5,High,"MFA, least privilege, quarterly access review",20,20,High
+Ransomware disrupts production scheduling,4,5,High,"Offline/immutable backups, tested recovery, segmentation",20,20,High
+Sensor data tampering,3,5,High,"Signed device identity, range checks, anomaly alerts",15,15,High
+Unencrypted transfer of supplier data,3,4,High,"TLS, managed secrets, certificate lifecycle",12,12,Medium
+Insider misuse of batch/traceability data,3,4,High,"Separation of duties, audit logs, approvals",12,12,Medium
+Lost/compromised endpoint,3,3,Medium,"Disk encryption, endpoint protection, remote revocation",9,9,Medium
+Backup failure or untested restoration,3,5,High,Scheduled restore tests and recovery objectives,15,15,High
+Third-party remote access compromise,3,5,High,"Time-bound access, MFA, vendor accounts, monitoring",15,15,High
+Data quality error causing false alert,3,3,Medium,"Validation rules, provenance, human review",9,9,Medium
+Denial of service against reporting service,2,3,Medium,"Rate limits, redundancy, incident playbooks",6,6,Low

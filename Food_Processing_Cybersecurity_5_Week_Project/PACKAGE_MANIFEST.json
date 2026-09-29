@@ -1,0 +1,154 @@
+[
+  {
+    "path": "README.md",
+    "size_bytes": 1324
+  },
+  {
+    "path": "SUBMISSION_DESCRIPTIONS.md",
+    "size_bytes": 754
+  },
+  {
+    "path": "Week_1/README.md",
+    "size_bytes": 794
+  },
+  {
+    "path": "Week_1/Week_1_Risk_Assessment_Report.docx",
+    "size_bytes": 135265
+  },
+  {
+    "path": "Week_1/code/risk_assessment.py",
+    "size_bytes": 541
+  },
+  {
+    "path": "Week_1/code/risk_register.csv",
+    "size_bytes": 1087
+  },
+  {
+    "path": "Week_1/code/risk_register_scored.csv",
+    "size_bytes": 1197
+  },
+  {
+    "path": "Week_1/figures/risk_scores.png",
+    "size_bytes": 112059
+  },
+  {
+    "path": "Week_1/requirements.txt",
+    "size_bytes": 92
+  },
+  {
+    "path": "Week_2/README.md",
+    "size_bytes": 794
+  },
+  {
+    "path": "Week_2/Week_2_Data_Pipeline_Vulnerability_Report.docx",
+    "size_bytes": 84511
+  },
+  {
+    "path": "Week_2/code/pipeline_manifest.json",
+    "size_bytes": 189
+  },
+  {
+    "path": "Week_2/code/quarantine_batches.csv",
+    "size_bytes": 393
+  },
+  {
+    "path": "Week_2/code/sample_batches.csv",
+    "size_bytes": 334
+  },
+  {
+    "path": "Week_2/code/secure_pipeline.py",
+    "size_bytes": 1714
+  },
+  {
+    "path": "Week_2/code/validated_batches.csv",
+    "size_bytes": 144
+  },
+  {
+    "path": "Week_2/figures/secure_pipeline.png",
+    "size_bytes": 51943
+  },
+  {
+    "path": "Week_2/requirements.txt",
+    "size_bytes": 92
+  },
+  {
+    "path": "Week_3/README.md",
+    "size_bytes": 794
+  },
+  {
+    "path": "Week_3/Week_3_Intrusion_Detection_Model_Report.docx",
+    "size_bytes": 122338
+  },
+  {
+    "path": "Week_3/code/RESULTS_SUMMARY.txt",
+    "size_bytes": 431
+  },
+  {
+    "path": "Week_3/code/model_metrics.json",
+    "size_bytes": 252
+  },
+  {
+    "path": "Week_3/code/synthetic_security_events.csv",
+    "size_bytes": 115020
+  },
+  {
+    "path": "Week_3/code/train_intrusion_model.py",
+    "size_bytes": 1601
+  },
+  {
+    "path": "Week_3/figures/confusion_matrix.png",
+    "size_bytes": 47914
+  },
+  {
+    "path": "Week_3/figures/feature_importance.png",
+    "size_bytes": 48392
+  },
+  {
+    "path": "Week_3/requirements.txt",
+    "size_bytes": 92
+  },
+  {
+    "path": "Week_4/README.md",
+    "size_bytes": 794
+  },
+  {
+    "path": "Week_4/Week_4_Encryption_Privacy_Report.docx",
+    "size_bytes": 41075
+  },
+  {
+    "path": "Week_4/code/aes_gcm_demo.py",
+    "size_bytes": 963
+  },
+  {
+    "path": "Week_4/requirements.txt",
+    "size_bytes": 92
+  },
+  {
+    "path": "Week_5/README.md",
+    "size_bytes": 794
+  },
+  {
+    "path": "Week_5/Week_5_Infrastructure_Evaluation_Roadmap.docx",
+    "size_bytes": 137583
+  },
+  {
+    "path": "Week_5/code/evaluate_controls.py",
+    "size_bytes": 501
+  },
+  {
+    "path": "Week_5/code/hypothetical_control_assessment.csv",
+    "size_bytes": 626
+  },
+  {
+    "path": "Week_5/code/prioritized_control_gaps.csv",
+    "size_bytes": 676
+  },
+  {
+    "path": "Week_5/figures/control_gaps.png",
+    "size_bytes": 114035
+  },
+  {
+    "path": "Week_5/requirements.txt",
+    "size_bytes": 92
+  }
+]

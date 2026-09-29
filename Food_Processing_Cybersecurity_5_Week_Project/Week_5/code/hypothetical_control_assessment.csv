@@ -1,0 +1,13 @@
+Control_Area,Maturity_1_5,Impact_1_5,Hypothetical_Status,Priority_Score
+Asset inventory and ownership,2,5,Partial,20
+MFA for privileged/remote access,3,5,Partial,15
+IT/OT network segmentation,2,5,Partial,20
+Encryption in transit,3,4,Partial,12
+Encryption at rest and key governance,2,4,Partial,16
+Centralized logs and alerting,2,4,Partial,16
+Backup isolation and restore testing,2,5,Weak,20
+Vulnerability and patch management,3,4,Partial,12
+Incident response and exercises,2,4,Weak,16
+Supplier/remote access governance,2,4,Partial,16
+Data quality and integrity validation,3,4,Partial,12
+Staff security awareness,3,3,Partial,9

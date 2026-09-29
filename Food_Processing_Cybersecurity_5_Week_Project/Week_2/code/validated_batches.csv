@@ -1,0 +1,3 @@
+batch_id,product,temperature_c,supplier_id,event_time
+B-1001,yogurt,4.1,SUP-1,2026-09-29T08:00:00Z
+B-1002,flour,22.0,SUP-2,2026-09-29T08:10:00Z

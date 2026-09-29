@@ -1,0 +1,7 @@
+{
+  "input_file": "sample_batches.csv",
+  "sha256": "2df6bb1ede6152679ea6c2bea8d9cedf0c1132a2498457aa909e5bc29566aeca",
+  "rows_received": 6,
+  "rows_accepted": 2,
+  "rows_quarantined": 4
+}

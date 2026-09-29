@@ -1,0 +1,7 @@
+batch_id,product,temperature_c,supplier_id,event_time
+B-1001,yogurt,4.1,SUP-1,2026-09-29T08:00:00Z
+B-1002,flour,22.0,SUP-2,2026-09-29T08:10:00Z
+B-1003,frozen peas,-18.2,SUP-3,2026-09-29T08:20:00Z
+B-1003,frozen peas,-18.1,SUP-3,2026-09-29T08:21:00Z
+B-1005,sauce,999.0,SUP-5,2026-09-29T08:30:00Z
+B-1006,cheese,5.0,,2026-09-29T08:40:00Z

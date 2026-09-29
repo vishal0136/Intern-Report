@@ -1,0 +1,5 @@
+batch_id,product,temperature_c,supplier_id,event_time,temperature_valid,batch_id_valid,supplier_valid,valid_record
+B-1003,frozen peas,-18.2,SUP-3,2026-09-29T08:20:00Z,True,False,True,False
+B-1003,frozen peas,-18.1,SUP-3,2026-09-29T08:21:00Z,True,False,True,False
+B-1005,sauce,999.0,SUP-5,2026-09-29T08:30:00Z,False,True,True,False
+B-1006,cheese,5.0,,2026-09-29T08:40:00Z,True,True,False,False
